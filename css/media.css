@@ -1,0 +1,210 @@
+
+@media(max-width: 1199px){
+  
+}
+
+@media(min-width: 992px){
+
+}
+
+@media(max-width: 991px){
+.Conference h1 {
+    font-size: 50px;
+    line-height: 55px;
+    margin: 70px 0 0;
+}.day {
+    padding: 5px 20px;
+}.month {
+    font-size: 18px;
+    padding: 5px 14px;
+}.calender {
+    margin-top: 40px;
+}.time .remain {
+    text-align: center;
+}.time .dividing {
+    text-align: center;
+    margin: 20px 0;
+}.time li {
+    margin: 0;
+    text-align: center;
+}.time .btn-custom {
+    padding: 12px 50px;
+}.trap::before{
+    display: none;
+}.days p, .seats p, .trap {
+    margin-bottom: 10px !important;
+}.speech {
+    padding-left: 44%;
+}
+}
+
+@media(max-width: 950px){
+
+}
+
+@media(max-width: 850px){
+.Conference p {
+    font-size: 18px;
+}.Conference h1 {
+    font-size: 42px;
+    margin: 60px 0 0;
+    line-height:50px;
+}.calender span {
+    line-height: 25px;
+}
+}
+
+@media(max-width: 767px){
+.Conference p {
+    display: none;
+}.Conference h1 {
+    font-size: 35px;
+    margin: 30px 0;
+    line-height: 42px;
+}.header-section img {
+    height: 80vh;
+}.Conference {
+    margin-top: 0;
+}.calender span {
+    display: inherit;
+    padding: 5px;
+}.calender span {
+    display: block;
+    width: 100px;
+}.Conference-section p {
+    margin: 25px 0 50px;
+}.hidden::before{
+    display: none;
+}.hidden, .last{
+    display: none;
+}.speech h4 {
+    line-height: 26px;
+}.info{
+    display: none;
+}.check h1 {
+    font-size: 40px;
+}.check h3 {
+    font-size: 25px;
+}.go::after, .fomenu::after{
+    display: none;
+}.latest .text {
+    margin-bottom: 20px;
+}.receive p {
+    margin-bottom: 20px;
+}
+}
+
+@media(max-width: 700px){
+
+}
+@media(max-width: 650px){
+
+}
+
+@media(max-width: 575px){
+    .header-section img {
+    height: 60vh;
+}
+    .Conference h1 {
+    font-size: 30px;
+    margin-bottom: 0;
+    line-height: 35px;
+}.month {
+    font-size: 16px;
+}.Conference-section h2 {
+    font-size: 25px;
+}.Conference-section p {
+    font-size: 18px;
+    line-height: 28px;
+}.Conference-section a {
+    font-size: 18px;
+}.topic::before{
+    display: none;
+}.days p, .seats p, .trap {
+    font-size: 16px !important;
+    line-height: 24px !important;
+}.welcome .row {
+    text-align: center;
+}.fluiding h6 {
+    margin: 10px 0;
+}.fluiding p {
+    margin-bottom: 20px;
+}.speech {
+    padding-left: 15px;
+}.join-section .check {
+    margin-bottom: 15px;
+}.information .btn-custom,.input .btn-custom {
+    font-size: 16px;
+}#offcanvas-sidebar ul {
+    text-align: center;
+}#offcanvas-sidebar a {
+    font-size: 20px;
+}.click {
+    width: 50px;
+    height: 50px;
+    bottom: 10px;
+    right: 15px;
+}.click i {
+    left: 15px !important;
+}.buy-section .digit {
+    padding-left: 0;
+}.fomenu ul {
+    padding: 0;
+}
+}
+@media(max-width: 500px){
+.dividing span span {
+    font-size: 14px;
+    line-height: 10px;
+}.dividing span {
+    font-size: 25px;
+}.time .btn-custom {
+    font-size: 14px;
+}.dividing .divider {
+    padding: 8px;
+}.remain h3 {
+    font-size: 25px;
+}.remain p {
+    font-size: 15px;
+}
+.Conference-section p {
+    font-size: 16px;
+    line-height: 24px;
+}
+.topic h1, .seats h1, .trap h1 {
+    font-size: 70px;
+    margin: 0;
+}.schedule-section .btn-custom {
+    padding: 6px 20px;
+    margin-bottom: 10px;
+}.follow ul li a {
+    font-size: 16px;
+    padding: 6px 12px;
+}
+.terms li,.designer li{
+    font-size: 16px;
+}
+}
+@media(max-width: 420px){
+.day {
+    font-size: 40px;
+}
+.Conference h1 {
+    font-size: 24px;
+    margin-bottom: 0;
+    line-height: 30px;
+}
+.Conference-section h2,.speaker-section h2,.schedule-section h2,.join-section h2,.sponsor-section h2,.news-section h2,.receive h2 {
+    font-size: 22px ;
+}.Conference-section a {
+    font-size: 16px;
+}.days p, .seats p, .trap {
+    font-size: 14px !important;
+    line-height: 22px !important;
+}.speech p {
+    font-size: 14px;
+}.speech h4 {
+    font-size: 16px;
+}
+
+}
